@@ -16,7 +16,7 @@ int long_lights = 13;	// Pin 6  - Long Lights
 int back_lights = 5;	// Pin 5  - Back Lights
 int reverse_lights = 4;	// Pin 4  - Reverse Lights
 
-char val;  // Variable to receive data from the serial port.
+char val;  // Variable to receive data from the serial port
 
 void setup() {
 
